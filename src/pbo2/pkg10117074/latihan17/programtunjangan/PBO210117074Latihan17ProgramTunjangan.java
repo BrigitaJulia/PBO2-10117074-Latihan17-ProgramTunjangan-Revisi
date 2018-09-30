@@ -9,7 +9,12 @@ import java.util.Scanner;
 
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author 
+ * NAMA : Brigita Julia Puspita Nai Goncalves
+ * KELAS: PBO-2
+ * NIM  : 10117074
+ * Deskripsi program: program ini berisi program untuk menampilkan hasil 
+ * perhitungan gaji berserta tunjangannya
  */
 public class PBO210117074Latihan17ProgramTunjangan {
 
